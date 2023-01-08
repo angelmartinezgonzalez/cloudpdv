@@ -1,0 +1,6 @@
+Django==4.0.4
+openpyxl==3.0.9
+mod-wsgi==4.9.4
+django-bootstrap4==22.3
+aiohttp==3.8.3
+virtualenv==20.17.1

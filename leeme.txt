@@ -1,0 +1,93 @@
+Para crear la aplicacion 
+
+usando Python 3.7.8
+
+debe de funsionar con python 8 y superiores
+
+cd C:\dev\amg\cloudpdv\src
+mkdir env
+
+cd env
+python -m venv C:\dev\amg\cloudpdv\src\env\vp
+
+
+para windows
+
+vp\Scripts\activate.bat
+
+deactivate.bat
+
+para linux
+source C:\dev\amg\cloudpdv\src\env\vp
+
+
+python -m pip install --upgrade pip
+
+para python 3.7.8 se mete 
+
+----
+pip install aiohttp==3.8.3
+pip install Django==3.2.16
+pip install django-bootstrap4==22.3
+pip install openpyxl==3.0.10
+pip install mod-wsgi==4.9.4
+---
+
+solo linux
+
+pip install uWSGI==2.0.21
+
+
+pip list
+
+
+
+(vp) C:\dev\amg\cloudpdv\src\env>pip list
+Package            Version
+------------------ -----------
+aiohttp            3.8.3
+aiosignal          1.3.1
+asgiref            3.6.0
+async-timeout      4.0.2
+asynctest          0.13.0
+attrs              22.2.0
+beautifulsoup4     4.11.1
+charset-normalizer 2.1.1
+Django             3.2.16
+django-bootstrap4  22.3
+et-xmlfile         1.1.0
+frozenlist         1.3.3
+idna               3.4
+importlib-metadata 2.1.3
+multidict          6.0.4
+openpyxl           3.0.10
+pip                22.3.1
+pytz               2022.7
+setuptools         40.6.2
+soupsieve          2.3.2.post1
+sqlparse           0.4.3
+typing_extensions  4.4.0
+yarl               1.8.2
+zipp               3.11.0
+
+
+
+django-admin.py startproject cloudpdv
+python manage.py startapp login
+python manage.py startapp sales
+python manage.py startapp users
+python manage.py startapp clients
+python manage.py startapp products
+
+
+cd cloudpdv
+
+python manage.py collectstatic
+
+python manage.py migrate
+
+python manage.py runserver
+
+
+
+
