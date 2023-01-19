@@ -2,8 +2,7 @@ import os
 import sys
 import site
 
-# Add the site-packages of the chosen virtualenv to work with
-#site.addsitedir('C:/Users/myuser/Envs/my_application/Lib/site-packages')
+# Add the site-packages where is the site-packages caould be with or witout virtualenv to work with
 site.addsitedir('C:/Python37/lib/site-packages/')
 
 # Add the app's directory to the PYTHONPATH
