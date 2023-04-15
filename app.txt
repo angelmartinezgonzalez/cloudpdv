@@ -1,0 +1,6 @@
+
+python manage.py startapp applogin
+
+
+python manage.py makemigrations
+python manage.py migrate

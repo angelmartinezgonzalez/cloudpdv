@@ -5,12 +5,12 @@ import site
 
 # Add the site-packages of the chosen virtualenv to work with
 #site.addsitedir('C:/Users/myuser/Envs/my_application/Lib/site-packages')
-site.addsitedir('C:/Python38/lib/site-packages/')
+site.addsitedir('C:/Python310/Lib/site-packages/')
 
 
 # Add the app's directory to the PYTHONPATH
 sys.path.append('C:/dev/sitiosweb/cloudpdv/src/cloudpdv')
-sys.path.append('C:/dev/sitiosweb//cloudpdv/src/cloudpdv/cloudpdv')
+sys.path.append('C:/dev/sitiosweb/cloudpdv/src/cloudpdv/cloudpdv')
 
 
 os.environ['DJANGO_SETTINGS_MODULE'] = 'cloudpdv.settings'

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69c7054e-f641-4932-8bff-43366e0eb2d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cloudpdv/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../components/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/CLOUDPDV.FDB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/schema/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../help/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cloudpdv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cloudpdv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudpdv/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudpdv/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudpdv/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudpdv/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudpdv/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudpdv/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudpdv/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudpdv/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloudpdv/wsgi_windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudpdv/wsgi_windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/media/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/static/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/EMPLOYEE.FDB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/Firebird-2.1.3.18185-0_Win32.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/Firebird-2.1.3.18185-0_Win32_embed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/Firebird-2.1.3.18185-0_x64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/Firebird-2.1.3.18185-0_x64_embed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/Firebird-2.1.3.18185_0_Win32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/Firebird-2.1.3.18185_0_x64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/employe2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/usaremos este win 64 para compatibildad con php 64 apache 64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thirdparty/Firebird-2.1.3.18185-0/win32 ver si jala con la bd de ventas.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LylLOOmWH5vRNmhjN7I12Ha3hG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/dev/amg/cfdireporteweb/src/cfdireporteweb"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="cloudpdv" type="Python.DjangoServer" factoryName="Django server">
+      <module name="cloudpdv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="cloudpdv.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69c7054e-f641-4932-8bff-43366e0eb2d8" name="Changes" comment="" />
+      <created>1676851147168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676851147168</updated>
+      <workItem from="1676851149578" duration="1020000" />
+      <workItem from="1676934407003" duration="2800000" />
+      <workItem from="1677270291567" duration="3528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
